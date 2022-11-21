@@ -28,6 +28,7 @@ Account address,Show boosts,Notify on new posts,Languages
 @markus@hachyderm.io,true,false,
 @MatejLach@social.matej-lach.me,true,false,
 @mattn@mstdn.jp,true,false,
+@mia@lgbtqia.space,true,false,
 @mvdan@fosstodon.org,true,false,
 @natefinch@hachyderm.io,true,false,
 @rakyll@m.rakyll.org,true,false,
@@ -40,4 +41,3 @@ Account address,Show boosts,Notify on new posts,Languages
 @utahcon@fosstodon.org,true,false,
 @victorpierre@mastodon.online,true,false,
 @zekjur@mas.to,true,false,
-@mia@lgbtqia.space,true,false
