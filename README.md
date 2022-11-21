@@ -7,6 +7,7 @@
 - [Go](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/golang.csv)
 - [PHP](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/php.csv)
 - [Python](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/python.csv)
+- [Ruby](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/ruby.csv)
 - [Rust](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/rust.csv)
 
 
