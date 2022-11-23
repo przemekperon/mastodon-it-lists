@@ -3,12 +3,12 @@
 
 ### CSV import files
 
-- [C#, .Net](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/csharp.csv)
-- [Go](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/golang.csv)
-- [PHP](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/php.csv)
-- [Python](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/python.csv)
-- [Ruby](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/ruby.csv)
-- [Rust](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/rust.csv)
-- [General Programming](https://raw.githubusercontent.com/przemekperon/mastodon-it-lists/main/programming.csv)
+- [C#, .Net](main/csharp.csv)
+- [Go](main/golang.csv)
+- [PHP](main/php.csv)
+- [Python](main/python.csv)
+- [Ruby](main/ruby.csv)
+- [Rust](main/rust.csv)
+- [IT & General Programming](main/it_programming.csv)
 
 If you want to add a new account or programming language, just open a pull request.
